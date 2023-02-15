@@ -1,0 +1,30 @@
+/* body ul li {
+  background: green;
+  color: red;
+}
+body section div ul li {
+  background: blue;
+  color: yellow;
+}
+ body > ul{
+   background-color: red;
+} */
+div > ul{
+  background-color: blue;
+}
+Body > ul{
+  background-color: red;
+}
+div > ul{
+   background-color: blue;
+}
+
+body{
+   background-color: antiquewhite;
+}
+h1 ~ p{
+      color:green; 
+}
+h1 + p{
+      color:red;
+}

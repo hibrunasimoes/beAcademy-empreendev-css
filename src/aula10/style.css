@@ -1,0 +1,19 @@
+/* Navegar entre os elemntos  */
+body p:nth-of-type(3) {
+  color: red;
+  font-size: 24px;
+}
+
+body p:nth-child(2){
+  color: blue;
+
+}
+
+
+
+
+/* 
+ul li:nth-child(odd){
+  background-color: violet;
+  color: white;
+} */

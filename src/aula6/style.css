@@ -1,0 +1,16 @@
+p {
+  font-size: 84px;
+}
+
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #e0effd;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #265afe;
+  border-radius: 6px;
+}

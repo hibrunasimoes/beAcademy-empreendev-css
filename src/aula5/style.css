@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font: italic 100 58px 'times', sans-serif;
+}
+
+.box {
+  background-color: red;
+  /* margin shorthand */
+
+  /* margin: 24px 8px; */
+  /* top/bottom right/left */
+
+  /* margin: 12px 80px 4px; */
+  /* top right/left bottom */
+
+  margin: 8px 4px 12px 42px;
+  /* top right left bottom */
+}
+
+.box2 {
+  background: yellow;
+
+}
+
+.box3 {
+  background: violet;
+}
